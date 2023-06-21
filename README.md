@@ -1,6 +1,6 @@
 # 42_cursus
 
-[![fduque-a's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cli4i2e8c001108jt19bvwefz/project/3091227)](https://github.com/JaeSeoKim/badge42)
+[![fduque-a's 42 stats](https://badge42.vercel.app/api/v2/cli4i2e8c001108jt19bvwefz/stats?cursusId=21&coalitionId=237)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank00
 - libft:
