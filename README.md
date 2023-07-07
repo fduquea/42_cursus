@@ -10,6 +10,7 @@
 ### [- **'exam'**:](https://github.com/fduquea/42_exams/tree/main/Exam%20Rank%2002) [![fduque-a's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cli4i2e8c001108jt19bvwefz/project/3099193)](https://github.com/JaeSeoKim/badge42)
 ### [- **'push_swap'**:](https://github.com/fduquea/42_push_swap) [![fduque-a's 42 push_swap Score](https://badge42.vercel.app/api/v2/cli4i2e8c001108jt19bvwefz/project/3125610)](https://github.com/JaeSeoKim/badge42)
 ### [- **'pipex'**:](https://github.com/fduquea/42_pipex) [![fduque-a's 42 pipex Score](https://badge42.vercel.app/api/v2/cli4i2e8c001108jt19bvwefz/project/3150330)](https://github.com/JaeSeoKim/badge42)
+### [- **'so_long'**:](https://github.com/fduquea/42_so_long) Coming soon...
 
 ## 📚 Rank03
 ### Coming soon...
